@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2171bbc-aacb-4b9d-a696-6c4ffcbb8fc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/age_eligibilty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marks_avg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/square_cube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condition_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/condition_input.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +63,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Ayush Shah/PycharmProjects/PythonProject",
     "nodejs_package_manager_path": "npm",
@@ -72,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771350256124</updated>
       <workItem from="1771350257254" duration="7321000" />
-      <workItem from="1771587043895" duration="2463000" />
+      <workItem from="1771587043895" duration="3257000" />
     </task>
     <servers />
   </component>

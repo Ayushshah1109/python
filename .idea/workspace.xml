@@ -8,17 +8,35 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/age_eligibilty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condition_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marks_avg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/square_cube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/even_nos_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/factorial_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/hollow_sqaure_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/number_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/number_pattern_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/number_pattern_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/number_pattern_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/odd_nos_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/pyramid_star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/reverse_pyramid_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/reverse_star_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/simple_print_nos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/simple_reverser_nos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/star_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/star_pattern_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/star_pattern_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/sum_of_n_nums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/table_for_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/age_eligibilty.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditions/age_eligibilty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions/condition_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditions/condition_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/even_odd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marks_avg.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/marks_avg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/personal_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/reactangle_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/simple_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/square_cube.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/square_cube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/swap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/temp_converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +68,37 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.age_eligibilty.executor": "Run",
+    "Python.condition_input.executor": "Run",
+    "Python.even_nos_for_loop.executor": "Run",
     "Python.even_odd.executor": "Run",
+    "Python.factorial_for_loop.executor": "Run",
+    "Python.hollow_sqaure_pattern.executor": "Run",
     "Python.main.executor": "Run",
     "Python.marks_avg.executor": "Run",
+    "Python.number_pattern.executor": "Run",
+    "Python.number_pattern_1.executor": "Run",
+    "Python.number_pattern_2.executor": "Run",
+    "Python.number_pattern_3.executor": "Run",
+    "Python.number_pattern_4.executor": "Run",
+    "Python.odd_nos_for_loop.executor": "Run",
     "Python.personal_info.executor": "Run",
+    "Python.pyramid_star.executor": "Run",
     "Python.reactangle_area.executor": "Run",
+    "Python.reverse_pyramid_pattern.executor": "Run",
+    "Python.reverse_star_pattern.executor": "Run",
     "Python.simple_calculator.executor": "Run",
+    "Python.simple_print_nos.executor": "Run",
+    "Python.simple_reverser_nos.executor": "Run",
     "Python.square_cube.executor": "Run",
+    "Python.star_pattern.executor": "Run",
+    "Python.star_pattern_1.executor": "Run",
+    "Python.star_pattern_2.executor": "Run",
+    "Python.sum_of_n_nums.executor": "Run",
     "Python.swap.executor": "Run",
+    "Python.table_for_loop.executor": "Run",
     "Python.temp_converter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
@@ -70,6 +109,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ayush Shah\PycharmProjects\PythonProject\basics" />
+      <recent name="C:\Users\Ayush Shah\PycharmProjects\PythonProject\conditions" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771350256124</updated>
       <workItem from="1771350257254" duration="7321000" />
-      <workItem from="1771587043895" duration="3815000" />
+      <workItem from="1771587043895" duration="25532000" />
     </task>
     <servers />
   </component>
@@ -134,16 +179,47 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Loops/hollow_sqaure_pattern.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$reactangle_area.coverage" NAME="reactangle_area Coverage Results" MODIFIED="1771435849427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1771352641909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$personal_info.coverage" NAME="personal_info Coverage Results" MODIFIED="1771435112090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$square_cube.coverage" NAME="square_cube Coverage Results" MODIFIED="1771435738746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$table_for_loop.coverage" NAME="table_for_loop Coverage Results" MODIFIED="1771870505747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$reverse_pyramid_pattern.coverage" NAME="reverse_pyramid_pattern Coverage Results" MODIFIED="1772743271784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$star_pattern_1.coverage" NAME="star_pattern_1 Coverage Results" MODIFIED="1772205236243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
     <SUITE FILE_PATH="coverage/PythonProject$temp_converter.coverage" NAME="temp_converter Coverage Results" MODIFIED="1771436872674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$marks_avg.coverage" NAME="marks_avg Coverage Results" MODIFIED="1771437394461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$simple_reverser_nos.coverage" NAME="simple_reverser_nos Coverage Results" MODIFIED="1771869001017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
     <SUITE FILE_PATH="coverage/PythonProject$simple_calculator.coverage" NAME="simple_calculator Coverage Results" MODIFIED="1771435627978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$condition_input.coverage" NAME="condition_input Coverage Results" MODIFIED="1771594913381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conditions" />
+    <SUITE FILE_PATH="coverage/PythonProject$number_pattern.coverage" NAME="number_pattern Coverage Results" MODIFIED="1772202758975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$personal_info.coverage" NAME="personal_info Coverage Results" MODIFIED="1771435112090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$hollow_sqaure_pattern.coverage" NAME="hollow_sqaure_pattern Coverage Results" MODIFIED="1772742848819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$number_pattern_2.coverage" NAME="number_pattern_2 Coverage Results" MODIFIED="1772202937359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
     <SUITE FILE_PATH="coverage/PythonProject$age_eligibilty.coverage" NAME="age_eligibilty Coverage Results" MODIFIED="1771436430194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$star_pattern.coverage" NAME="star_pattern Coverage Results" MODIFIED="1772107747120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
     <SUITE FILE_PATH="coverage/PythonProject$swap.coverage" NAME="swap Coverage Results" MODIFIED="1771436025831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$odd_nos_for_loop.coverage" NAME="odd_nos_for_loop Coverage Results" MODIFIED="1771869296152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1771352641909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$pyramid_star.coverage" NAME="pyramid_star Coverage Results" MODIFIED="1772742824863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$square_cube.coverage" NAME="square_cube Coverage Results" MODIFIED="1771435738746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$factorial_for_loop.coverage" NAME="factorial_for_loop Coverage Results" MODIFIED="1771874534069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
     <SUITE FILE_PATH="coverage/PythonProject$even_odd.coverage" NAME="even_odd Coverage Results" MODIFIED="1771436373464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$number_pattern_3.coverage" NAME="number_pattern_3 Coverage Results" MODIFIED="1772203618722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$reactangle_area.coverage" NAME="reactangle_area Coverage Results" MODIFIED="1771435849427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$reverse_star_pattern.coverage" NAME="reverse_star_pattern Coverage Results" MODIFIED="1772742836026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$number_pattern_4.coverage" NAME="number_pattern_4 Coverage Results" MODIFIED="1772203695419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$even_nos_for_loop.coverage" NAME="even_nos_for_loop Coverage Results" MODIFIED="1771869101007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$simple_print_nos.coverage" NAME="simple_print_nos Coverage Results" MODIFIED="1771868003364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$star_pattern_2.coverage" NAME="star_pattern_2 Coverage Results" MODIFIED="1772108168631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$sum_of_n_nums.coverage" NAME="sum_of_n_nums Coverage Results" MODIFIED="1771873754994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
+    <SUITE FILE_PATH="coverage/PythonProject$number_pattern_1.coverage" NAME="number_pattern_1 Coverage Results" MODIFIED="1772202846568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
   </component>
 </project>
